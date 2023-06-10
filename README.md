@@ -2,7 +2,8 @@
 
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    Hey! Welcome to my github profile page. Currently I am opened to job opportunities as a starting backend developer. Please feel free to contact me.</p>
+    Hey! 
+    Welcome to my github profile page. Currently I am opened to job opportunities as a starting backend developer with proficiency in .Net</p>
 <br>
 <br>
 <div align="center">
