@@ -2,7 +2,7 @@
 
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    Currently I am looking forward to job opportunities as a starting backend developer.</p>
+    Hey! Welcome to my github profile page. Currently I am opened to job opportunities as a starting backend developer. Please feel free to contact me.</p>
 <br>
 <br>
 <div align="center">
@@ -25,7 +25,6 @@
 <br>
 
 <!-- Statistics -->
-
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
 <!-- Begin Stats Cards -->
